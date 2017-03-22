@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <GB2>
+        <pages>
+            <page>
+		        <id>1</id>
+		       	<text>When Henry woke up, the sun was burning bright and it warmed his face.  His eyes felt heavy though and he laid still. </text>
+				<image>scene1</image><texthtml><![CDATA[When Henry woke up, the <a href='sun.3gp'><i><b><u><FONT COLOR='#99F86B'>sun</FONT></u></b></i></a> was burning bright and it warmed his face.  His eyes felt heavy though and he laid still.]]></texthtml>
+				<time>425</time><animdur>5</animdur>
+				<tween>scr1_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_02</audio>
+		            <audio>Greenbeanies_2_04</audio>
+		        </audios>
+		        
+		    </page>
+		    <page>
+		        <id>2</id>
+		        <text>Filtering through his sleepiness, was CeCe who was standing over him saying 'Wake up, wake up.'  The darkness of the dream he was having about wolves and a dog faded away.</text>
+				<image>scene2</image><texthtml><![CDATA[Filtering through his sleepiness, was CeCe who was standing over him saying 'Wake up, wake up.'  The darkness of the <a href='dream.3gp'><i><b><u><FONT COLOR='#99F86B'>dream</FONT></u></b></i></a> he was having about wolves and a <a href='dog.3gp'><i><b><u><FONT COLOR='#99F86B'>dog</FONT></u></b></i></a> faded away.]]></texthtml>
+				<time>415</time><animdur>5</animdur>
+				<tween>scr2_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_05</audio>
+		            <audio>Greenbeanies_2_06</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>3</id>
+		        <text>He sat up.  Was his Greenbeanie still on his head?  Yes, it was.  He felt for the familiar hat just where it had been when he had gone to sleep.</text>
+				<image>scene3</image><texthtml><![CDATA[He sat up.  Was his Greenbeanie still on his head?  Yes, it was.  He felt for the familiar <a href='hat.3gp'><i><b><u><FONT COLOR='#99F86B'>hat</FONT></b></u></i></a> just where it had been when he had gone to <a href='asleep.3gp'><i><b><u><FONT COLOR='#99F86B'>sleep</FONT></b></u></i></a>.]]></texthtml>
+				<time>330</time><animdur>5</animdur>
+				<tween>scr3_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_07</audio>
+		            <audio>Greenbeanies_2_08</audio>
+		            <audio>Greenbeanies_2_09</audio>
+		            <audio>Greenbeanies_2_10</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>4</id>
+		        <text>"What?" he asked.  "What’s wrong?"  CeCe pointed to the woods, turned and ran. He followed.</text>
+				<image>scene4</image><texthtml><![CDATA["What?" he asked.  "What’s wrong?"  CeCe pointed to the woods, turned and ran. He followed.]]></texthtml>
+				<time>400</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_11</audio>
+		            <audio>Greenbeanies_2_12</audio>
+		            <audio>Greenbeanies_2_13</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>5</id>
+		        <text>They hadn’t gone far when they found the yellow dog laying still under a big tree. </text>
+				<image>scene5</image><texthtml><![CDATA[They hadn’t gone far when they found the yellow <a href='dog.3gp'><i><b><u><FONT COLOR='#99F86B'>dog</FONT></b></u></i></a> laying still under a big <a href='tree.3gp'><i><b><u><FONT COLOR='#99F86B'>tree</FONT></b></u></i></a>.]]></texthtml>
+				<time>370</time><animdur>5</animdur>
+				<tween>scr5_scale</tween>
+				<audios><audio>Greenbeanies_2_14</audio></audios>		        
+		    </page>
+		    <page>
+		        <id>6</id>
+		        <text>Miss Matilda, the cat, was nearby. CeCe kneeled down next to the dog. She was softly petting him while Miss Matilda helped by carefully licking his ear. </text>
+				<image>scene6</image><texthtml><![CDATA[Miss Matilda, the <a href='cat.3gp'><i><b><u><FONT COLOR='#99F86B'>cat</FONT></b></u></i></a>, was nearby. CeCe kneeled down next to the <a href='dog.3gp'><i><b><u><FONT COLOR='#99F86B'>dog</FONT></b></u></i></a>. She was softly petting him while Miss Matilda helped by carefully licking his ear.]]></texthtml>
+				<time>480</time><animdur>5</animdur>
+				<tween>scr6_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_15</audio>
+		            <audio>Greenbeanies_2_16</audio>
+		            <audio>Greenbeanies_2_17</audio>
+		            <audio>Greenbeanies_2_18</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>7.1</id>
+		        <text>'He was trying to protect us from the wolves,' CeCe whispered to Henry,  "I think he was hurt..."</text>
+				<image>scene7.1</image><texthtml><![CDATA['He was trying to protect us from the wolves,' CeCe whispered to Henry,  "I think he was hurt..."]]></texthtml>
+				<time>270</time><animdur>5</animdur>
+				<tween>scr7_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_19</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>7.2</id>
+		        <text> The yellow dog was not moving and maybe not even breathing.   </text>
+				<image>scene7.2</image><texthtml><![CDATA['The yellow <a href='dog.3gp'><i><b><u><FONT COLOR='#99F86B'>dog</FONT></b></u></i></a> was not moving and maybe not even breathing.  ]]></texthtml>
+				<time>360</time><animdur>5</animdur>
+				<tween>scr7_2_scale</tween>
+		        <audios>
+					<audio>Greenbeanies_2_20</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>7.3</id>
+		        <text>It wasn’t a dream after all, Henry realized.   All was silent in the woods, even the birds seemed to have stopped chirping.</text>
+				<image>scene7.3</image><texthtml><![CDATA[It wasn’t a <a href='dream.3gp'><i><b><u><FONT COLOR='#99F86B'">dream</FONT></b></u></i></a> after all, Henry realized.   All was silent in the woods, even the <a href='bird.3gp'><i><b><u><FONT COLOR='#99F86B'>birds</FONT></b></u></i></a> seemed to have stopped chirping.]]></texthtml>
+				<time>410</time><animdur>5</animdur>
+				<tween>scr7_3_scale</tween>
+		        <audios>
+					<audio>Greenbeanies_2_21</audio>
+					<audio>Greenbeanies_2_22</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>8</id>
+		        <text>Before long, CeCe was crying and Miss Matilda was meowing sadly.</text>
+				<image>scene8</image><texthtml><![CDATA[Before long, CeCe was crying and Miss Matilda was meowing sadly.]]></texthtml>
+				<time>450</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_23</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>9</id>
+		        <text>Henry felt his own eyes begin to fill with tears.  He blinked them away.</text>
+				<image>scene9</image><texthtml><![CDATA[Henry felt his own eyes begin to fill with tears.  He blinked them away.]]></texthtml>
+				<time>340</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_24</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>10</id>
+		        <text>Then he noticed sparkles and shimmering lights coming off the top of CeCe's Greenbeanie. Were their hats magical after all?</text>
+				<image>ascene10</image><texthtml><![CDATA[Then he noticed sparkles and shimmering lights coming off the top of CeCe's Greenbeanie. Were their hats magical after all?]]></texthtml>
+				<time>510</time><animdur>5</animdur>
+				<tween></tween>
+				<animimages>00.jpg,01.jpg,02.jpg,03.jpg,04.jpg,05.jpg,06.jpg,07.jpg,08.jpg,09.jpg,10.jpg,11.jpg,12.jpg,13.jpg,14.jpg,15.jpg,16.jpg,17.jpg,18.jpg,19.jpg,20.jpg,21.jpg,22.jpg,23.jpg,24.jpg,25.jpg,26.jpg,27.jpg,28.jpg,29.jpg,30.jpg,31.jpg</animimages>
+		        <audios>
+		            <audio>Greenbeanies_2_26</audio>
+					<audio>Greenbeanies_2_27</audio>		            
+		        </audios>
+		    </page>
+		    <page>
+		        <id>11</id>
+		        <text>A butterfly seemed to answer his question.</text>
+				<image>ascene11</image><texthtml><![CDATA[A <a href='butterfly.3gp'><i><b><u><FONT COLOR='#99F86B'>butterfly</FONT></b></u></i></a> seemed to answer his question.]]></texthtml>
+				<time>420</time><animdur>5</animdur>
+				<tween></tween>
+				<animimages>butterflyhat0001.jpg,butterflyhat0007.jpg,butterflyhat0008.jpg,butterflyhat0009.jpg,butterflyhat0010.jpg,butterflyhat0011.jpg,butterflyhat0012.jpg,butterflyhat0013.jpg,butterflyhat0014.jpg,butterflyhat0015.jpg,butterflyhat0016.jpg,butterflyhat0017.jpg,butterflyhat0018.jpg,butterflyhat0019.jpg,butterflyhat0021.jpg,butterflyhat0043.jpg,butterflyhat0045.jpg,butterflyhat0047.jpg</animimages>
+		        <audios>
+		            <audio>Greenbeanies_2_28</audio>		            
+		        </audios>
+		    </page>
+		    <page>
+		        <id>12</id>
+		        <text>It fluttered down with wings the color of a rainbow.</text>
+				<image>ascene12</image><texthtml><![CDATA[It fluttered down with wings the color of a rainbow.]]></texthtml>
+				<time>420</time><animdur>5</animdur>
+				<tween></tween>
+				<animimages>butterflyhat0050.jpg,butterflyhat0052.jpg,butterflyhat0053.jpg,butterflyhat0056.jpg,butterflyhat0057.jpg,butterflyhat0059.jpg,butterflyhat0061.jpg,butterflyhat0063.jpg,butterflyhat0065.jpg,butterflyhat0067.jpg,butterflyhat0069.jpg,butterflyhat0071.jpg,butterflyhat0073.jpg,butterflyhat0075.jpg,butterflyhat0077.jpg</animimages>
+		        <audios>
+		            <audio>Greenbeanies_2_29</audio>		            
+		        </audios>
+		    </page>
+		    <page>
+		        <id>13</id>
+		        <text>The butterfly landed softly on the dog's still head and sat there for just a moment.</text>
+				<image>ascene13</image><texthtml><![CDATA[The <a href='butterfly.3gp'><i><b><u><FONT COLOR='#99F86B'>butterfly</FONT></b></u></i></a> landed softly on the dog's still head and sat there for just a moment.]]></texthtml>
+				<time>420</time><animdur>5</animdur>
+				<tween></tween>
+				<animimages>butterflyhat0081.jpg,butterflyhat0087.jpg,butterflyhat0090.jpg,butterflyhat0094.jpg,butterflyhat0096.jpg,butterflyhat0100.jpg,butterflyhat0104.jpg</animimages>
+		        <audios>
+		            <audio>Greenbeanies_2_32</audio>		            
+		        </audios>
+		    </page>
+		    <page>
+		        <id>14</id>
+		        <text>In amazement, they watched as the dog's eyes opened!</text>
+				<image>ascene14</image><texthtml><![CDATA[In amazement, they watched as the dog's eyes opened!]]></texthtml>
+				<time>500</time>
+				<animdur>4000</animdur>
+				<tween></tween>
+				<animimages>butterflyhat1.jpg,butterflyhat2.jpg</animimages>
+		        <audios>
+		            <audio>Greenbeanies_2_33</audio>		            
+		        </audios>
+		    </page>
+		    <page>
+		        <id>15</id>
+		        <text>The butterfly quietly flew away on a warm breeze. And what of the dog?</text>
+				<image>ascene15</image><texthtml><![CDATA[The <a href='butterfly.3gp'><i><b><u><FONT COLOR='#99F86B'>butterfly</FONT></b></u></i></a> quietly flew away on a warm breeze. And what of the dog?]]></texthtml>
+				<time>400</time><animdur>5</animdur>
+				<animimages>butterflyhat0106.jpg,butterflyhat0108.jpg,butterflyhat0110.jpg,butterflyhat0112.jpg,butterflyhat0113.jpg,butterflyhat0115.jpg,butterflyhat0117.jpg,butterflyhat0119.jpg,butterflyhat0122.jpg,butterflyhat0123.jpg,butterflyhat0125.jpg,butterflyhat0127.jpg,butterflyhat0130.jpg,butterflyhat0132.jpg,butterflyhat0134.jpg,butterflyhat0136.jpg,butterflyhat0137.jpg</animimages>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_34</audio>		            
+		        </audios>
+		    </page>
+		    <page>
+		        <id>16</id>
+		        <text>He suddenly twitched and sprang to life!</text>
+				<image>ascene16</image><texthtml><![CDATA[He suddenly twitched and sprang to life!]]></texthtml>
+				<time>440</time><animdur>5</animdur>
+				<animimages>scene110001.jpg,scene110004.jpg,scene110005.jpg,scene110007.jpg,scene110009.jpg,scene110012.jpg,scene110013.jpg,scene110015.jpg,scene110017.jpg,scene110019.jpg,scene110020.jpg,scene110021.jpg,scene110022.jpg,scene110023.jpg,scene110025.jpg,scene110026.jpg,scene110027.jpg,scene110028.jpg,scene110029.jpg,scene110031.jpg</animimages>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_36</audio>		            
+		        </audios>
+		    </page>
+		    <page>
+		        <id>17</id>
+		        <text>Henry, CeCe and Miss Matilda all had the same look of astonishment of their faces.  They didn’t know what was more surprising,  that the yellow dog was standing up or that he was standing up on only three legs!</text>
+				<image>scene17</image><texthtml><![CDATA[Henry, CeCe and Miss Matilda all had the same look of astonishment of their faces.  They didn’t know what was more surprising,  that the yellow dog was standing up or that he was standing up on only three legs!]]></texthtml>
+				<time>390</time><animdur>5</animdur>
+				<tween>scr17_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_37</audio>
+					<audio>Greenbeanies_2_38</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>18</id>
+		        <text>The dog gave them all a big goofy smile and began to dance.  Henry, CeCe and Miss Matilda started to dance along side him.  And, the birds sang.</text>
+				<image>ascene18</image><texthtml><![CDATA[The dog gave them all a big goofy smile and began to <a href='dance.3gp'><i><b><u><FONT COLOR='#99F86B'>dance</FONT></b></u></i></a>.  Henry, CeCe and Miss Matilda started to <a href='dance.3gp'><i><b><u><FONT COLOR='#99F86B'>dance</FONT></b></u></i></a> along side him.  And, the <a href='bird.3gp'><i><b><u><FONT COLOR='#99F86B'>birds</FONT></b></u></i></a> sang.]]></texthtml>
+				<time>440</time><animdur>5</animdur>
+				<animimages>01.jpg,02.jpg,03.jpg,04.jpg,05.jpg,06.jpg,07.jpg,08.jpg,09.jpg,10.jpg,11.jpg,12.jpg,13.jpg,14.jpg,15.jpg,16.jpg,17.jpg,18.jpg,19.jpg,20.jpg</animimages>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_39</audio>
+					<audio>Greenbeanies_2_40</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>19.1</id>
+		        <text>Stopping to catch his breath, Henry asked CeCe, "Remember the yellow dog that use to come to the orphanage when we lived there?" </text>
+				<image>scene19.1</image><texthtml><![CDATA[Stopping to catch his breath, Henry asked CeCe, "Remember the yellow dog that use to come to the orphanage when we lived there?"  ]]></texthtml>
+				<time>390</time><animdur>5</animdur>
+				
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_41</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>19.2</id>
+		        <text> ‘"You mean the one that we fed out by the back fence?" she answered.  </text>
+				<image>scene19.2</image><texthtml><![CDATA[‘"You mean the one that we fed out by the back fence?" she answered.  ]]></texthtml>
+				<time>340</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+					<audio>Greenbeanies_2_42</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>19.4</id>
+		        <text>Almost at the same time, they both shouted out, "FRED!"</text>
+				<image>scene19.4</image><texthtml><![CDATA[Almost at the same time, they both shouted out, "FRED!"]]></texthtml>
+				<time>500</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+					<audio>Greenbeanies_2_43</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>20</id>
+		        <text>Recognizing his name, Fred turned and smiled.  And of course, he began to dance again!</text>
+				<image>ascene20</image><texthtml><![CDATA[Recognizing his name, Fred turned and smiled.  And of course, he began to <a href='dance.3gp'><i><b><u><FONT COLOR='#99F86B'>dance</FONT></b></u></i></a> again!]]></texthtml>
+				<time>475</time><animdur>5</animdur>
+				<animimages>01.jpg,02.jpg,03.jpg,04.jpg,05.jpg,06.jpg,07.jpg,08.jpg,09.jpg,10.jpg,11.jpg,12.jpg,13.jpg,14.jpg,15.jpg,16.jpg,17.jpg,18.jpg,19.jpg,20.jpg,21.jpg,22.jpg</animimages>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_44</audio>
+					<audio>Greenbeanies_2_45</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>21</id>
+		      	<text>All the excitement had made the group very hungry and thirsty.  With grumbling bellies, Henry and CeCe  sat down on the grass and dug through their backpacks.</text>
+				<image>scene21</image><texthtml><![CDATA[All the excitement had made the group very <a href='hungry.3gp'><i><b><u><FONT COLOR='#99F86B'>hungry</FONT></b></u></i></a> and <a href='thirsty.3gp'><i><b><u><FONT COLOR='#99F86B'>thirsty</FONT></b></u></i></a>.  With grumbling bellies, Henry and CeCe  sat down on the grass and dug through their <a href='backpack.3gp'><i><b><u><FONT COLOR='#99F86B'>backpacks</FONT></b></u></i></a>.]]></texthtml>
+				<time>415</time><animdur>5</animdur>
+				
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_46</audio>
+					<audio>Greenbeanies_2_47</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>22.1</id>
+		        <text>Henry was pleased to find an apple for the very hungry Fred.  </text>
+				<image>scene22.1</image><texthtml><![CDATA[Henry was pleased to find an apple for the very <a href='hungry.3gp'><i><b><u><FONT COLOR='#99F86B'>hungry</FONT></b></u></i></a> Fred.  ]]></texthtml>
+				<time>380</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_48</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>22.2</id>
+		        <text>Then, CeCe found some water for the very thirsty Miss Matilda.  </text>
+				<image>scene22.2</image><texthtml><![CDATA[Then, CeCe found some <a href='water.3gp'><i><b><u><FONT COLOR='#99F86B'>water</FONT></b></u></i></a> for the very <a href='thirsty.3gp'><i><b><u><FONT COLOR='#99F86B'>thirsty</FONT></b></u></i></a> Miss Matilda.  ]]></texthtml>
+				<time>525</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+					<audio>Greenbeanies_2_49</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>22.3</id>
+		        <text>Henry and CeCe happily devoured their own peanut butter sandwiches.</text>
+				<image>scene22.3</image><texthtml><![CDATA[Henry and CeCe happily devoured their own peanut butter sandwiches.]]></texthtml>
+				<time>540</time><animdur>5</animdur>
+				<tween>scr22_3_scale</tween>
+		        <audios>
+					<audio>Greenbeanies_2_50</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>23</id>
+				<text>After the meal, the group continued walking with Fred leading the way. Henry and CeCe were amazed at how fast he traveled. They soon realized that he was better at hiking and climbing  than they were.</text>
+				<image>ascene23</image><texthtml><![CDATA[After the meal, the group continued <a href='walked.3gp'><i><b><u><FONT COLOR='#99F86B'>walking</FONT></b></u></i></a> with Fred leading the way. Henry and CeCe were amazed at how fast he traveled. They soon realized that he was better at hiking and climbing  than they were.]]></texthtml>
+				<animimages>photos1.jpg,photos10.jpg,photos11.jpg,photos12.jpg,photos13.jpg,photos14.jpg,photos2.jpg,photos3.jpg,photos4.jpg,photos5.jpg,photos6.jpg,photos7.jpg,photos8.jpg,photos9.jpg</animimages>
+				<time>465</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+					<audio>Greenbeanies_2_51</audio>
+					<audio>Greenbeanies_2_52</audio>
+					<audio>Greenbeanies_2_53</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>24.1</id>
+		        <text>"It is because he has three legs and we only have two," Henry remarked.  He then picked up a tree limb to use as a walking stick. </text>
+				<image>scene24</image><texthtml><![CDATA["It is because he has three legs and we only have two," Henry remarked.  He then picked up a <a href='tree.3gp'><i><b><u><FONT COLOR='#99F86B'>tree</FONT></b></u></i></a> limb to use as a walking stick.]]></texthtml>
+				<time>350</time><animdur>5</animdur>
+				
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_54</audio>
+					<audio>Greenbeanies_2_55</audio>				
+		        </audios>
+		    </page>
+		    <page>
+		        <id>24.2</id>
+		        <text>Henry hoped that the stick would make him as fast as Fred, but it didn’t.</text>
+				<image>scene24</image><texthtml><![CDATA[Henry hoped that the stick would make him as fast as Fred, but it didn’t.]]></texthtml>
+				<time>340</time><animdur>5</animdur>
+				<tween>scr24_2_scale</tween>
+		        <audios>		            
+					<audio>Greenbeanies_2_56</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>25.1</id>
+		        <text>Suddenly, the group heard a faint sound. What was it, they wondered?  It started out as a hum, but then it seemed to get louder and louder. </text>
+				<image>scene25</image><texthtml><![CDATA[Suddenly, the group heard a faint sound. What was it, they wondered?  It started out as a hum, but then it seemed to get louder and louder. ]]></texthtml>
+				<time>450</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_57</audio>
+					<audio>Greenbeanies_2_58</audio>
+					<audio>Greenbeanies_2_59</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>25.2</id>
+		        <text>It was a scary noise and was getting very close. Fred barked a warning, and Miss Matilda meowed with fear. BEES!!! shouted Henry.</text>
+				<image>ascene25</image><texthtml><![CDATA[It was a scary noise and was getting very close. Fred barked a warning, and Miss Matilda meowed with fear. <a href='bee.3gp'><i><b><u><FONT COLOR='#99F86B'>BEES!!!</FONT></b></u></i></a> shouted Henry.]]></texthtml>
+				<time>530</time><animdur>5</animdur>
+				<animimages>scene150001.jpg,scene150002.jpg,scene150005.jpg,scene150006.jpg,scene150008.jpg,scene150010.jpg,scene150011.jpg,scene150013.jpg,scene150015.jpg,scene150017.jpg,scene150019.jpg,scene150020.jpg,scene150022.jpg,scene150023.jpg,scene150025.jpg,scene150027.jpg,scene150029.jpg,scene150031.jpg,scene150032.jpg,scene150034.jpg,scene150036.jpg,scene150038.jpg,scene150040.jpg,scene150041.jpg,scene150043.jpg,scene150044.jpg,scene150046.jpg,scene150048.jpg,scene150050.jpg,scene150052.jpg,scene150053.jpg,scene150055.jpg,scene150057.jpg,scene150059.jpg,scene150061.jpg,scene150063.jpg</animimages>
+				<tween></tween>
+		        <audios>
+					<audio>Greenbeanies_2_60</audio>
+					<audio>Greenbeanies_2_61</audio>
+					<audio>Greenbeanies_2_62</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>26</id>
+		        <text></text>
+				<image>ascene26</image><texthtml><![CDATA[]]></texthtml>
+				<time>10</time><animdur>5</animdur>
+				<animimages>scene 16 20001.jpg,scene 16 20010.jpg,scene 16 20012.jpg,scene 16 20014.jpg,scene 16 20016.jpg,scene 16 20019.jpg,scene 16 20021.jpg,scene 16 20023.jpg,scene 16 20026.jpg,scene 16 20028.jpg,scene 16 20030.jpg,scene 16 20033.jpg,scene 16 20035.jpg,scene 16 20037.jpg,scene 16 20041.jpg,scene 16 20046.jpg,scene 16 20049.jpg,scene 16 20051.jpg,scene 16 20053.jpg,scene 16 20055.jpg,scene 16 20057.jpg,scene 16 20060.jpg,scene 16 20063.jpg,scene 16 20067.jpg,scene 16 20071.jpg,scene 16 20075.jpg,scene 16 20079.jpg,scene 16 20083.jpg,scene 16 20087.jpg,scene 16 20091.jpg,scene 16 20095.jpg,scene 16 20097.jpg,scene 16 20099.jpg,scene 16 20103.jpg,scene 16 20107.jpg,scene 16 20109.jpg,scene 16 20111.jpg,scene 16 20114.jpg,scene 16 20117.jpg,scene 16 20120.jpg,scene 16 20123.jpg,scene 16 20127.jpg,scene 16 20129.jpg,scene 16 20131.jpg,scene 16 20135.jpg,scene 16 20139.jpg,scene 16 20143.jpg,scene 16 20146.jpg,scene 16 20149.jpg,scene 16 20153.jpg,scene 16 20157.jpg,scene 16 20159.jpg,scene 16 20160.jpg</animimages>
+				<tween></tween>
+		        <audios>
+		            <audio>bees_buzzing</audio>		            
+		        </audios>
+		    </page>
+		    <page>
+		        <id>27</id>
+		        <text>A whole swarm of bees were buzzing all around their heads! Henry swung his walking stick and Miss Matilda swatted with her paws.</text>
+				<image>ascene27</image><texthtml><![CDATA[A whole swarm of <a href='bee.3gp'><i><b><u><FONT COLOR='#99F86B'>bees</FONT></b></u></i></a> were buzzing all around their heads! Henry swung his walking stick and Miss Matilda swatted with her paws.]]></texthtml>
+				<time>470</time><animdur>5</animdur>
+				<tween></tween>
+				<animimages>swat bees0001.jpg,swat bees0002.jpg,swat bees0003.jpg,swat bees0004.jpg,swat bees0005.jpg,swat bees0006.jpg,swat bees0007.jpg,swat bees0008.jpg,swat bees0009.jpg,swat bees0010.jpg,swat bees0011.jpg,swat bees0012.jpg,swat bees0013.jpg,swat bees0014.jpg,swat bees0015.jpg,swat bees0016.jpg,swat bees0017.jpg,swat bees0018.jpg,swat bees0019.jpg,swat bees0020.jpg,swat bees0021.jpg,swat bees0022.jpg,swat bees0023.jpg</animimages>
+		        <audios>
+		            <audio>Greenbeanies_2_63</audio>
+					<audio>Greenbeanies_2_64</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>28</id>
+		        <text>They ran!  With Fred still leading, they charged through the woods, screaming and flailing their arms.</text>
+				<image>ascene28</image><texthtml><![CDATA[They ran!  With Fred still leading, they charged through the woods, screaming and flailing their arms.]]></texthtml>
+				<time>488</time><animdur>5</animdur>
+				<animimages>scene170001.jpg,scene170002.jpg,scene170004.jpg,scene170006.jpg,scene170008.jpg,scene170010.jpg,scene170011.jpg,scene170013.jpg,scene170015.jpg,scene170017.jpg,scene170019.jpg,scene170020.jpg,scene170022.jpg,scene170023.jpg,scene170025.jpg,scene170027.jpg,scene170028.jpg,scene170029.jpg,scene170030.jpg,scene170031.jpg,scene170032.jpg,scene170034.jpg,scene170036.jpg,scene170038.jpg,scene170040.jpg,scene170041.jpg,scene170043.jpg,scene170044.jpg,scene170046.jpg,scene170048.jpg,scene170051.jpg,scene170052.jpg,scene170054.jpg,scene170055.jpg,scene170056.jpg,scene170057.jpg,scene170059.jpg,scene170061.jpg,scene170063.jpg</animimages>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_65</audio>
+					<audio>Greenbeanies_2_66</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>29</id>
+		        <text>Just ahead, they spotted a waterfall and Fred jumped right through it. </text>
+				<image>scene29</image><texthtml><![CDATA[Just ahead, they spotted a waterfall and Fred <a href='jump.3gp'><i><b><u><FONT COLOR='#99F86B'>jumped</FONT></b></u></i></a> right through it.]]></texthtml>
+				<time>500</time><animdur>5</animdur>
+				<tween></tween>
+				
+		        <audios>
+		            <audio>Greenbeanies_2_67</audio>				
+		        </audios>
+		    </page>
+		    <page>
+		        <id>29</id>
+		        <text>They followed him and found themselves standing in a small cool cave, an almost mystical place.  This secret alcove was hidden behind  the cascading waterfall.</text>
+				<image>ascene29</image><texthtml><![CDATA[They followed him and found themselves standing in a small cool cave, an almost mystical place.  This secret alcove was hidden behind  the cascading waterfall.]]></texthtml>
+				<time>500</time><animdur>5</animdur>
+				<animimages>cave0001.jpg,cave0005.jpg,cave0006.jpg,cave0007.jpg,cave0008.jpg,cave0009.jpg,cave0010.jpg,cave0011.jpg,cave0013.jpg,cave0014.jpg,cave0015.jpg,cave0016.jpg,cave0017.jpg,cave0018.jpg</animimages>
+				<tween></tween>
+		        <audios>		            
+					<audio>Greenbeanies_2_68</audio>
+					<audio>Greenbeanies_2_69</audio>
+					<audio>Greenbeanies_2_70</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>30</id>
+		        <text>Best of all, they were safe from the bees. Luckily, no one had been stung. </text>
+				<image>scene30</image><texthtml><![CDATA[Best of all, they were safe from the <a href='bee.3gp'><i><b><u><FONT COLOR='#99F86B'>bees</FONT></b></u></i></a>. Luckily, no one had been stung.]]></texthtml>
+				<time>420</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_71</audio>
+					<audio>Greenbeanies_2_72</audio>					
+		        </audios>
+		    </page>
+		    <page>
+		        <id>30</id>
+		        <text>Only Miss Matilda was a little annoyed and shook her fur to remove the droplets.</text>
+				<image>scene30</image><texthtml><![CDATA[Only Miss Matilda was a little annoyed and shook her fur to remove the droplets.]]></texthtml>
+				<time>390</time><animdur>5</animdur>
+				<tween>scr30_scale</tween>
+		        <audios>		         
+					<audio>Greenbeanies_2_73</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>31</id>
+		        <text>As Henry and CeCe refilled their water bottles, Fred peeked out from behind the waterfall to check for bees.  They were gone! </text>
+				<image>scene31</image><texthtml><![CDATA[As Henry and CeCe refilled their <a href='water.3gp'><i><b><u><FONT COLOR='#99F86B'>water</FONT></b></u></i></a> bottles, Fred peeked out from behind the waterfall to check for <a href='bee.3gp'><i><b><u><FONT COLOR='#99F86B'>bees</FONT></b></u></i></a>.  They were gone!]]></texthtml>
+				<time>460</time><animdur>5</animdur>
+				<tween>scr31_scale</tween>
+		        <audios>
+					<audio>Greenbeanies_2_74</audio>				
+		        </audios>
+		    </page>
+		    <page>
+		        <id>32</id>
+		        <text>As they emerged from the waterfall, they were wet and tired.  What were they going to do?   They sat down and rested against a large tree.</text>
+				<image>scene32</image><texthtml><![CDATA[As they emerged from the waterfall, they were wet and tired.  What were they going to do?   They sat down and rested against a large <a href='tree.3gp'><i><b><u><FONT COLOR='#99F86B'>tree</FONT></b></u></i></a>.]]></texthtml>
+				<time>400</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_76</audio>
+					<audio>Greenbeanies_2_77</audio>
+					<audio>Greenbeanies_2_78</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>33</id>
+		        <text>From her perch in the backpack Miss Matilda watched as the Greenbeanies twinkled their sparkly charm.</text>
+				<image>ascene33</image><texthtml><![CDATA[From her perch in the <a href='backpack.3gp'><i><b><u><FONT COLOR='#99F86B'>backpack</FONT></b></u></i></a> Miss Matilda watched as the Greenbeanies twinkled their sparkly charm.]]></texthtml>
+				<time>510</time><animdur>5</animdur>
+				<animimages>treehouse magic0001.jpg,treehouse magic0004.jpg,treehouse magic0005.jpg,treehouse magic0006.jpg,treehouse magic0007.jpg,treehouse magic0008.jpg,treehouse magic0009.jpg,treehouse magic0010.jpg,treehouse magic0011.jpg,treehouse magic0012.jpg,treehouse magic0013.jpg,treehouse magic0014.jpg,treehouse magic0015.jpg,treehouse magic0016.jpg,treehouse magic0017.jpg,treehouse magic0018.jpg,treehouse magic0019.jpg,treehouse magic0020.jpg,treehouse magic0021.jpg,treehouse magic0022.jpg,treehouse magic0023.jpg,treehouse magic0024.jpg,treehouse magic0025.jpg,treehouse magic0026.jpg,treehouse magic0027.jpg,treehouse magic0028.jpg,treehouse magic0029.jpg,treehouse magic0030.jpg,treehouse magic0031.jpg,treehouse magic0032.jpg,treehouse magic0033.jpg,treehouse magic0034.jpg</animimages>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_79</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>34.1</id>
+		        <text>The tree was no longer just an ordinary tree. It was an incredible treehouse! A huge wooden door stood open in front of them. </text>
+				<image>scene34</image><texthtml><![CDATA[The <a href='tree.3gp'><i><b><u><FONT COLOR='#99F86B'>tree</FONT></b></u></i></a> was no longer just an ordinary <a href='tree.3gp'><i><b><u><FONT COLOR='#99F86B'>tree</FONT></b></u></i></a>. It was an incredible treehouse! A huge wooden door stood open in front of them.]]></texthtml>
+				<time>470</time><animdur>5</animdur>
+				<tween>scr34_1_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_80</audio>
+					<audio>Greenbeanies_2_81</audio>
+					<audio>Greenbeanies_2_82</audio>					
+		        </audios>
+		    </page>
+		    <page>
+		        <id>34.2</id>
+		        <text> So Henry, CeCe, Fred and Miss Matilda eagerly went inside. They were awed! </text>
+				<image>scene35</image><texthtml><![CDATA[So Henry, CeCe, Fred and Miss Matilda eagerly went inside. They were awed!]]></texthtml>
+				<time>560</time><animdur>5</animdur>
+				<tween>scr34_2_scale</tween>
+		        <audios>		            
+					<audio>Greenbeanies_2_83</audio>
+					<audio>Greenbeanies_2_84</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>35.1</id>
+		        <text>The interior walls were covered with beautiful drawings.  </text>
+				<image>fireplace</image><texthtml><![CDATA[The interior walls were covered with beautiful drawings.  ]]></texthtml>
+				<time>438</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>		            
+					<audio>Greenbeanies_2_85</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>35.2</id>
+		        <text>The furniture was assembled from wood branches.  </text>
+				<image>chair</image><texthtml><![CDATA[The furniture was assembled from wood branches.  ]]></texthtml>
+				<time>438</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>		            
+					<audio>Greenbeanies_2_86</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>35.3</id>
+		        <text>There was moss hanging as curtains.  </text>
+				<image>moss</image><texthtml><![CDATA[There was moss hanging as curtains.  ]]></texthtml>
+				<time>438</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>		            
+					<audio>Greenbeanies_2_87</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>35.4</id>
+		        <text>In the center of the room was a spiral staircase winding its way up the inside of the entire tree.</text>
+				<image>scene35</image><texthtml><![CDATA[In the center of the room was a spiral staircase winding its way up the inside of the entire <a href='tree.3gp'><i><b><u><FONT COLOR='#99F86B'>tree</FONT></b></u></i></a>.]]></texthtml>
+				<time>385</time><animdur>5</animdur>
+				<tween>scr35_4_scale</tween>
+		        <audios>		            
+					<audio>Greenbeanies_2_88</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>36</id>
+		        <text>"WOW"  was all CeCe and Henry could say.  Fred added "BOW-WOW" and Miss Matilda exclaimed, "ME-WOW!"   "It’s magical!" declared CeCe and they all nodded in agreement.</text>
+				<image>scene36</image><texthtml><![CDATA["WOW"  was all CeCe and Henry could say.  Fred added "BOW-WOW" and Miss Matilda exclaimed, "ME-WOW!"   "It’s magical!" declared CeCe and they all nodded in agreement.]]></texthtml>
+				<time>560</time><animdur>5</animdur>
+				<tween>scr36_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_89</audio>
+					<audio>Greenbeanies_2_90</audio>
+					<audio>Greenbeanies_2_91</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>37</id>
+		        <text>As they admired the unbelievable space, something seemed to flash by them.  It moved so quickly, that in a blink,  it disappeared up the stairs.  What was that? Henry wondered.</text>
+				<image>ascene37</image><texthtml><![CDATA[As they admired the unbelievable space, something seemed to flash by them.  It moved so quickly, that in a blink,  it disappeared up the stairs.  What was that? Henry wondered.]]></texthtml>
+				<animimages>scene26.jpg,scene27.jpg,scene28.jpg,scene29.jpg,scene30.jpg,scene31.jpg,scene32.jpg</animimages>
+				<time>460</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_92</audio>
+					<audio>Greenbeanies_2_93</audio>
+					<audio>Greenbeanies_2_94</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>38.1</id>
+		        <text>Before they could react,  Miss Matilda jumped out of the backpack and dashed up the staircase after it.  </text>
+				<image>seperatecat</image><texthtml><![CDATA[Before they could react,  Miss Matilda <a href='jump.3gp'><i><b><u><FONT COLOR='#99F86B'>jumped </FONT></b></u></i></a> out of the <a href='backpack.3gp'><i><b><u><FONT COLOR='#99F86B'>backpack</FONT></b></u></i></a> and dashed up the staircase after it.  ]]></texthtml>
+				<time>435</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_95</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>38.2</id>
+		        <text>Fred chased her. And CeCe raced after Fred.</text>
+				<image>scene38</image><texthtml><![CDATA[Fred chased her.  And CeCe raced after Fred.]]></texthtml>
+				<time>570</time><animdur>5</animdur>
+				<tween>scr38_2_scale</tween>
+		        <audios>
+		            <audio>Greenbeanies_2_96</audio>
+		        </audios>
+		    </page>
+		    
+		    <page>
+		        <id>39</id>
+		        <text>"Wait for me..." Henry shouted as he started up the stairs.</text>
+				<image>scene39</image><texthtml><![CDATA["Wait for me..." Henry shouted as he started up the stairs.]]></texthtml>
+				<time>400</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_97</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>40</id>
+		        <text>But just as he did - something very hairy and very heavy - jumped onto his back.   "Arrggghhhhhh," he groaned as he crumpled to the floor.</text>
+				<image>ascene40</image><texthtml><![CDATA[But just as he did - something very hairy and very heavy - <a href='jump.3gp'><i><b><u><FONT COLOR='#99F86B'>jumped</FONT></b></u></i></a> onto his back.   "Arrggghhhhhh," he groaned as he crumpled to the floor.]]></texthtml>
+				<animimages>scene270008.jpg,scene270012.jpg,scene270015.jpg,scene270018.jpg,scene270019.jpg,scene270021.jpg,scene270022.jpg,scene270024.jpg,scene270025.jpg,scene270026.jpg,scene270027.jpg,scene270028.jpg,scene270029.jpg</animimages>
+				<time>510</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_98</audio>
+		            <audio>Greenbeanies_2_99</audio>
+		        </audios>
+		    </page>
+		    <page>
+		        <id>41</id>
+		        <text>And then, everything was dark.</text>
+				<image>scene41</image><texthtml><![CDATA[And then, everything was dark.]]></texthtml>
+				<time>530</time><animdur>5</animdur>
+				<tween></tween>
+		        <audios>
+		            <audio>Greenbeanies_2_100</audio>
+		        </audios>
+		    </page>		    		    
+		 </pages>
+    </GB2>

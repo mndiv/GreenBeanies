@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KeerthanaS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_11392ea535331e81b65ab875690da91486f1b363\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KeerthanaS\.android\build-cache\ec43857ba0736d95f951bb77b4c329b0b96df6f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15c5b0fd56fab4d0b6c630a3fcf2ece11473dafb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KeerthanaS\.android\build-cache\43c04179d18230f5a22b7a320cf5e2ee71fd855a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd473f747131bc138999ae806fd278839fc36b18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0328b0757c46f68e78cc4292c2a614fd26b6cf1">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5a1c10f23ef9aa62221033a57e0b91c98265ca4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KeerthanaS\.android\build-cache\e6b080222f9b53966b3f5a9bb10f0e0762ba536d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e433969b54f51e2f8c309a2ef87dae4c45392a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KeerthanaS\.android\build-cache\e99191e294c40afe496786db39012989e85653f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38a461cf73b7e2a415d12e10fc6ed93ebf9a210b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KeerthanaS\.android\build-cache\20bc1d0af504186f827490af361b7e8e6021964a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d19d4e98df529304067baf51d4de0562d1876f7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3ec73cb290634f1da4813513091634a74869a9e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KeerthanaS\.android\build-cache\1c68c26a9a95a6a350278d255ef26cc009ae81d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Divya\SignMeAStory\GreenBeanies_AndroidStudio\GreenBeanies\greenBeanies\build\intermediates\transforms\dex\debug\folders\1000\10\classes_562a82dc35398c8bc0c707d44b3a176e93abd947\classes.dex" />
+    </item>
+
+</items>

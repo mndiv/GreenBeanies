@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.signmeastory.apps.gb"
+    android:versionCode="7"
+    android:versionName="5.2" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    
+     <!-- Required to access Google Play Licensing -->
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+
+    <!-- Required to download files from Google Play -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Required to keep CPU alive while downloading files (NOT to keep screen awake) -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- Required to poll the state of the network connection and respond to changes -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- Required to check whether Wi-Fi is enabled -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <!-- Required to read and write the expansion files on shared storage -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- Splash screen -->
+        <activity
+            android:name="com.signmeastory.apps.gb.SplashScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.signmeastory.apps.gb.MainActivity"
+            android:label="@string/app_name" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name="com.signmeastory.apps.gb.BookShelfActivity"
+            android:label="@string/title_activity_book_shelf" >
+        </activity>
+        <activity
+            android:name="com.signmeastory.apps.gb.GBDownloaderActivity"
+            android:label="@string/title_activity_downloader" >
+        </activity>
+        <activity
+            android:name="com.signmeastory.apps.gb.CoverLetter"
+            android:label="@string/title_activity_cover_letter" >
+        </activity>
+        <activity
+            android:name="com.signmeastory.apps.gb.DemoActivity"
+            android:label="@string/title_activity_demo" >
+        </activity>
+        <activity
+            android:name="com.signmeastory.apps.gb.ListWordsActivity"
+            android:label="@string/title_activity_list_words" >
+        </activity>
+        <activity
+            android:name="com.signmeastory.apps.gb.VideoViewDemo"
+            
+            android:label="Signs" >
+        </activity>
+        
+        
+        <service android:name="GBDownloaderService" />
+        <receiver android:name="GBDownloadBroadcastReceiver" />
+        
+        <provider android:name="GBZipUriProvider" android:authorities="com.signmeastory.apps.gb.GBZipUriProvider" />
+        <provider android:name=".ZipContentProvider"
+                  android:authorities="com.signmeastory.apps.gb" />
+    </application>
+
+</manifest>
