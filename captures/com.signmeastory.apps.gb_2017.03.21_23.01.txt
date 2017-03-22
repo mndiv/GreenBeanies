@@ -1,0 +1,74 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        1587b69 com.signmeastory.apps.gb/.SplashScreen
+
+Registered ContentProviders:
+  com.signmeastory.apps.gb/.GBZipUriProvider:
+    Provider{47cb9ee com.signmeastory.apps.gb/.GBZipUriProvider}
+  com.signmeastory.apps.gb/.ZipContentProvider:
+    Provider{5d5de8f com.signmeastory.apps.gb/.ZipContentProvider}
+
+ContentProvider Authorities:
+  [com.signmeastory.apps.gb.GBZipUriProvider]:
+    Provider{47cb9ee com.signmeastory.apps.gb/.GBZipUriProvider}
+      applicationInfo=ApplicationInfo{779851c com.signmeastory.apps.gb}
+  [com.signmeastory.apps.gb]:
+    Provider{5d5de8f com.signmeastory.apps.gb/.ZipContentProvider}
+      applicationInfo=ApplicationInfo{779851c com.signmeastory.apps.gb}
+
+Key Set Manager:
+  [com.signmeastory.apps.gb]
+      Signing KeySets: 2058
+
+Packages:
+  Package [com.signmeastory.apps.gb] (4f46525):
+    userId=10453
+    pkg=Package{15a3639 com.signmeastory.apps.gb}
+    codePath=/data/app/com.signmeastory.apps.gb-1
+    resourcePath=/data/app/com.signmeastory.apps.gb-1
+    legacyNativeLibraryDir=/data/app/com.signmeastory.apps.gb-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    nativeLibraryRootDir=/data/app/com.signmeastory.apps.gb-1/lib
+    nativeLibraryDir=/data/app/com.signmeastory.apps.gb-1/lib/arm64
+    secondaryNativeLibraryDir=null
+    nativeLibraryRootRequiresIsa=true
+    dexMode=unknown
+    versionCode=7 targetSdk=25
+    versionName=5.2
+    splits=[base, lib_dependencies_apk, lib_slice_0_apk, lib_slice_1_apk, lib_slice_2_apk, lib_slice_3_apk, lib_slice_4_apk, lib_slice_5_apk, lib_slice_6_apk, lib_slice_7_apk, lib_slice_8_apk, lib_slice_9_apk]
+    applicationInfo=ApplicationInfo{779851c com.signmeastory.apps.gb}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    dataDir=/data/user/0/com.signmeastory.apps.gb
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-03-21 22:43:31
+    firstInstallTime=2017-03-21 22:43:31
+    lastUpdateTime=2017-03-21 22:43:31
+    signatures=PackageSignatures{27e86fa [c5bd4ab]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP LARGE_HEAP ]
+    requested permissions:
+      android.permission.READ_EXTERNAL_STORAGE
+      com.android.vending.BILLING
+      com.android.vending.CHECK_LICENSE
+      android.permission.INTERNET
+      android.permission.WAKE_LOCK
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.WRITE_EXTERNAL_STORAGE
+    install permissions:
+      android.permission.INTERNET, granted=true, flags=0x0
+      com.android.vending.CHECK_LICENSE, granted=true, flags=0x0
+      com.android.vending.BILLING, granted=true, flags=0x0
+      android.permission.ACCESS_NETWORK_STATE, granted=true, flags=0x0
+      android.permission.ACCESS_WIFI_STATE, granted=true, flags=0x0
+      android.permission.WAKE_LOCK, granted=true, flags=0x0
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+      gids=[3003]
+      Not granted runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE
+        android.permission.WRITE_EXTERNAL_STORAGE
+      runtime permissions:
+mPackagesOnlyForOwnerUser:
+mComponentsOnlyForOwnerUser:

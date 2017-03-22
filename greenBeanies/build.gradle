@@ -23,5 +23,5 @@ dependencies {
     compile project(':downloader_library')
     compile project(':play_licensing')
     compile project(':zip_file')
-    compile 'com.android.support:support-v4:25.2.0'
+    compile 'com.android.support:support-v4:25.3.0'
 }

@@ -1,11 +1,5 @@
 package com.signmeastory.apps.gb;
 
-import java.io.IOException;
-import java.lang.reflect.Field;
-import java.util.List;
-import java.util.Timer;
-import java.util.TimerTask;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -32,6 +26,12 @@ import android.widget.Button;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.google.android.vending.expansion.downloader.Helpers;
+
+import java.io.IOException;
+import java.lang.reflect.Field;
+import java.util.List;
+import java.util.Timer;
+import java.util.TimerTask;
 
 public class MainActivity extends Activity implements TextToSpeech.OnInitListener{
 	Animation a;
@@ -88,6 +88,7 @@ public class MainActivity extends Activity implements TextToSpeech.OnInitListene
 		};*/
 
 		fileName = Helpers.getExpansionAPKFileName(this, true, 7);
+
 		fileName = Helpers
 				.generateSaveFileName(this, fileName);
 		try {
